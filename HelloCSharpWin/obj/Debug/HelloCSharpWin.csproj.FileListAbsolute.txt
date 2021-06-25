@@ -1,0 +1,10 @@
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe.config
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\bin\Debug\HelloCSharpWin.pdb
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\obj\Debug\HelloCSharpWin.csprojAssemblyReference.cache
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\obj\Debug\HelloCSharpWin.Calculator.resources
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\obj\Debug\HelloCSharpWin.Properties.Resources.resources
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.GenerateResource.cache
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.CoreCompileInputs.cache
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\obj\Debug\HelloCSharpWin.exe
+D:\Dev_ws\VS_workspace\CSharp\HelloCSharpWin\obj\Debug\HelloCSharpWin.pdb
