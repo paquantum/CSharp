@@ -1,0 +1,10 @@
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\bin\Debug\CuteCat.exe.config
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\bin\Debug\CuteCat.exe
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\bin\Debug\CuteCat.pdb
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\obj\Debug\CuteCat.csprojAssemblyReference.cache
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\obj\Debug\CuteCat.Form1.resources
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\obj\Debug\CuteCat.Properties.Resources.resources
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\obj\Debug\CuteCat.csproj.GenerateResource.cache
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\obj\Debug\CuteCat.csproj.CoreCompileInputs.cache
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\obj\Debug\CuteCat.exe
+D:\Dev_ws\VS_workspace\CSharp\CuteCat\obj\Debug\CuteCat.pdb
